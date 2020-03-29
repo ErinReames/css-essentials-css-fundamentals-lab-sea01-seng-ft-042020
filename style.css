@@ -31,5 +31,8 @@ section > p {
   color: purple;
   margin-left: auto;
   margin-right: auto;
- 
+}
+
+#details{
+  display: block;
 }
