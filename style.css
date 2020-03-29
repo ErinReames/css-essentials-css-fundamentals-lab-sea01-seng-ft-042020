@@ -27,7 +27,7 @@ figcaption {
 }
 
 p {
-  text-align: center;
+  align: center;
   color: blue;
   width: 800px;
 }
