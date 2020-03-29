@@ -29,5 +29,5 @@ figcaption {
 section > p {
   width: 800px;
   color: purple;
- 
+ text-align: center;
 }
