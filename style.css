@@ -35,5 +35,6 @@ section > p {
 
 div{
   display: block;
+  float: left;
   color: pink;
 }
